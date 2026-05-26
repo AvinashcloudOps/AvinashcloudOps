@@ -14,18 +14,6 @@
 
 ---
 
-## 🌐 Languages
-
-<div align="center">
-
-![Telugu](https://img.shields.io/badge/Telugu-Native-FF6B6B?style=flat-square)
-![English](https://img.shields.io/badge/English-Fluent-4ECDC4?style=flat-square)
-![Hindi](https://img.shields.io/badge/Hindi-Fluent-FFE66D?style=flat-square)
-
-</div>
-
----
-
 ## 🎯 About Me
 
 DevOps Engineer at **Kapil Soft Solutions Pvt Ltd** with expertise in designing and deploying scalable cloud infrastructure, containerized applications, and automated deployment pipelines. Passionate about infrastructure automation, cloud technologies, and building resilient systems. Proficient in multiple languages: **Telugu**, **English**, and **Hindi**.
@@ -95,9 +83,17 @@ DevOps Engineer at **Kapil Soft Solutions Pvt Ltd** with expertise in designing 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Top Languages & GitHub Stats
 
 <div align="center">
+
+### 🌐 Languages
+
+![Telugu](https://img.shields.io/badge/Telugu-Native-FF6B6B?style=flat-square)
+![English](https://img.shields.io/badge/English-Fluent-4ECDC4?style=flat-square)
+![Hindi](https://img.shields.io/badge/Hindi-Fluent-FFE66D?style=flat-square)
+
+---
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvinashcloudOps&theme=dark)
 
