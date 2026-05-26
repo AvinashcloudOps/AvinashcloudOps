@@ -10,9 +10,17 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 
-[![Telugu](https://img.shields.io/badge/Telugu-🇮🇳-green?style=for-the-badge)](/)
-[![English](https://img.shields.io/badge/English-🌐-blue?style=for-the-badge)](/)
-[![Hindi](https://img.shields.io/badge/Hindi-🇮🇳-orange?style=for-the-badge)](/)
+</div>
+
+---
+
+## 🌐 Languages
+
+<div align="center">
+
+![Telugu](https://img.shields.io/badge/Telugu-Native-FF6B6B?style=flat-square)
+![English](https://img.shields.io/badge/English-Fluent-4ECDC4?style=flat-square)
+![Hindi](https://img.shields.io/badge/Hindi-Fluent-FFE66D?style=flat-square)
 
 </div>
 
