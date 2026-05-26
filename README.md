@@ -36,25 +36,24 @@ DevOps Engineer at **Kapil Soft Solutions Pvt Ltd** with expertise in designing 
 ### ☁️ Cloud Platforms
 
 #### **AWS Services**
-- **Compute** - EC2, ECS, Lambda, Fargate, Auto Scaling Groups, Application Load Balancer (ALB)
+- **Compute** - EC2, ECS, Lambda, Auto Scaling Groups, Application Load Balancer (ALB)
 - **Storage** - S3, EBS (Elastic Block Store), EFS (Elastic File System), Glacier
-- **Database** - RDS (PostgreSQL, MySQL, MariaDB), DynamoDB, Aurora, ElastiCache
-- **Networking** - VPC, Security Groups, Network ACLs, Route53, CloudFront, VPN, NAT Gateway
+- **Database** - RDS (MySQL, MariaDB), DynamoDB, Aurora
+- **Networking** - VPC, Security Groups, Network ACLs, Route53, VPN, NAT Gateway
 - **Identity & Access** - IAM (Identity & Access Management), Roles, Policies, MFA
-- **Messaging & Queuing** - SQS (Simple Queue Service), SNS (Simple Notification Service), EventBridge
-- **Monitoring & Logging** - CloudWatch, CloudTrail, X-Ray, AWS Systems Manager
-- **Infrastructure as Code** - CloudFormation, AWS SAM
-- **Other Services** - Secrets Manager, Parameter Store, CodeDeploy, CodePipeline
+- **Messaging & Queuing** - SQS (Simple Queue Service), SNS (Simple Notification Service)
+- **Monitoring & Logging** - CloudWatch, CloudTrail
+- **Infrastructure as Code** - CloudFormation
+- **Other Services** - CodeDeploy, CodePipeline, etc..,
 
 #### **GCP Services**
 - **Compute** - Compute Engine, GKE (Google Kubernetes Engine), Cloud Run, App Engine, Cloud Functions
-- **Storage** - Cloud Storage, Persistent Disks, Filestore, Cloud Archive
-- **Database** - Cloud SQL, Firestore, Bigtable, Datastore
-- **Networking** - VPC, Firewall Rules, Cloud Load Balancing, Cloud Armor, Cloud CDN, Cloud VPN
+- **Storage** - Cloud Storage, Persistent Disks
+- **Database** - Cloud SQL, Cloud Storage
+- **Networking** - VPC, Firewall Rules, Cloud Load Balancing, Cloud CDN, Cloud VPN
 - **Identity & Access** - Cloud IAM, Service Accounts, Identity Platform
-- **Messaging & Events** - Pub/Sub, Cloud Tasks, Cloud Scheduler
-- **Monitoring & Logging** - Cloud Monitoring, Cloud Logging, Cloud Trace, Profiler
-- **Other Services** - Secret Manager, Cloud Deployment Manager, Cloud Build, etc.
+- **Monitoring & Logging** - Cloud Monitoring, Cloud Logging, Cloud Trace
+- **Other Services** - 
 
 ### 📦 Container & Orchestration
 - **Docker** - Container image creation, Docker Compose, registry management, multi-stage builds
@@ -65,28 +64,25 @@ DevOps Engineer at **Kapil Soft Solutions Pvt Ltd** with expertise in designing 
 ### 🏗️ Infrastructure as Code
 - **Terraform** - Multi-cloud IaC, modules, state management, remote backends, workspaces, variables, outputs
 - **Ansible** - Configuration management, playbook automation, inventory management, roles, templates
-- **CloudFormation** - AWS native IaC, stacks, change sets, templates (JSON/YAML)
 
 ### ⚙️ CI/CD & Automation
 - **Jenkins** - Pipeline creation (Declarative & Scripted), job orchestration, plugins, webhooks, agents
 - **GitLab CI** - YAML-based pipeline automation, runners, artifacts, caching, environments
 - **GitHub Actions** - Workflow automation, release management, CI/CD workflows, custom actions, secrets management
-- **Other Tools** - GitOps (ArgoCD, Flux), Build tools (Maven, Gradle, npm), Container image building
+- **Other Tools** - Build tools (Maven, Gradle, npm), Container image building
 
 ### 📊 Monitoring & Logging
 - **Prometheus** - Metrics collection, time-series database, alerting (AlertManager), service discovery, exporters
 - **ELK Stack** - Elasticsearch (search & analytics), Logstash (data processing), Kibana (visualization & dashboards)
 - **Grafana** - Visualization and dashboarding, alerting, datasource integration, panel plugins
-- **Additional Tools** - Jaeger (distributed tracing), Loki (log aggregation), Thanos (Prometheus long-term storage)
-
+- **Additional Tools** - Nagious, Promithos, etc..,
+- 
 ### 🔧 Additional Tools & Technologies
-- **Linux/Unix** - System administration, shell scripting (Bash, Python), package management, permissions
+- **Linux/Unix** - System administration, shell scripting (Bash), package management, permissions
 - **Git & Version Control** - Git workflows, branching strategies, code reviews, merge strategies
-- **Scripting & Automation** - Python, Bash, Go - for automation, infrastructure automation, utility scripts
-- **API & Integration** - REST APIs, Webhooks, SDK integration, API gateways
-- **Database Administration** - PostgreSQL, MySQL, MariaDB backup/restore, replication, optimization
-- **Security & Compliance** - SSL/TLS, encryption, vulnerability scanning, OWASP, compliance standards
-- **Performance Optimization** - Load testing, caching strategies, resource optimization, cost optimization
+- **Scripting & Automation** - Bash, Go - for automation, infrastructure automation, utility scripts
+- **Integration** - Webhooks
+- **Database Administration** - MySQL, MariaDB backup/restore, replication, optimization
 
 ---
 
