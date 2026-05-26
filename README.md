@@ -92,7 +92,7 @@ DevOps Engineer at **Kapil Soft Solutions Pvt Ltd** with expertise in designing 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvinashcloudOps&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashcloudOps&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashcloudOps&layout=compact&theme=dark)_]_(Telugu, English,Hindi)
 
 </div>
 
