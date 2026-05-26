@@ -10,13 +10,17 @@
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
 
+[![Telugu](https://img.shields.io/badge/Telugu-🇮🇳-green?style=for-the-badge)](/)
+[![English](https://img.shields.io/badge/English-🌐-blue?style=for-the-badge)](/)
+[![Hindi](https://img.shields.io/badge/Hindi-🇮🇳-orange?style=for-the-badge)](/)
+
 </div>
 
 ---
 
 ## 🎯 About Me
 
-DevOps Engineer at **Kapil Soft Solutions Pvt Ltd** with expertise in designing and deploying scalable cloud infrastructure, containerized applications, and automated deployment pipelines. Passionate about infrastructure automation, cloud technologies, and building resilient systems. Proficient in multiple languages: Telugu, English, and Hindi.
+DevOps Engineer at **Kapil Soft Solutions Pvt Ltd** with expertise in designing and deploying scalable cloud infrastructure, containerized applications, and automated deployment pipelines. Passionate about infrastructure automation, cloud technologies, and building resilient systems. Proficient in multiple languages: **Telugu**, **English**, and **Hindi**.
 
 ---
 
