@@ -34,33 +34,59 @@ DevOps Engineer at **Kapil Soft Solutions Pvt Ltd** with expertise in designing 
 ## 🛠️ Technical Stack
 
 ### ☁️ Cloud Platforms
-- **AWS** - EC2, EKS, S3, RDS, Lambda, CloudFormation, VPC
-- **GCP** - GKE, Compute Engine, Cloud Storage, Cloud SQL
+
+#### **AWS Services**
+- **Compute** - EC2, ECS, Lambda, Fargate, Auto Scaling Groups, Application Load Balancer (ALB)
+- **Storage** - S3, EBS (Elastic Block Store), EFS (Elastic File System), Glacier
+- **Database** - RDS (PostgreSQL, MySQL, MariaDB), DynamoDB, Aurora, ElastiCache
+- **Networking** - VPC, Security Groups, Network ACLs, Route53, CloudFront, VPN, NAT Gateway
+- **Identity & Access** - IAM (Identity & Access Management), Roles, Policies, MFA
+- **Messaging & Queuing** - SQS (Simple Queue Service), SNS (Simple Notification Service), EventBridge
+- **Monitoring & Logging** - CloudWatch, CloudTrail, X-Ray, AWS Systems Manager
+- **Infrastructure as Code** - CloudFormation, AWS SAM
+- **Other Services** - Secrets Manager, Parameter Store, CodeDeploy, CodePipeline
+
+#### **GCP Services**
+- **Compute** - Compute Engine, GKE (Google Kubernetes Engine), Cloud Run, App Engine, Cloud Functions
+- **Storage** - Cloud Storage, Persistent Disks, Filestore, Cloud Archive
+- **Database** - Cloud SQL, Firestore, Bigtable, Datastore
+- **Networking** - VPC, Firewall Rules, Cloud Load Balancing, Cloud Armor, Cloud CDN, Cloud VPN
+- **Identity & Access** - Cloud IAM, Service Accounts, Identity Platform
+- **Messaging & Events** - Pub/Sub, Cloud Tasks, Cloud Scheduler
+- **Monitoring & Logging** - Cloud Monitoring, Cloud Logging, Cloud Trace, Profiler
+- **Other Services** - Secret Manager, Cloud Deployment Manager, Cloud Build, etc.
 
 ### 📦 Container & Orchestration
-- **Docker** - Container image creation, Docker Compose, registry management
-- **Kubernetes** - EKS deployment, scaling, networking, storage, RBAC
-- **Container Registries** - ECR, GCR, Docker Hub
+- **Docker** - Container image creation, Docker Compose, registry management, multi-stage builds
+- **Kubernetes** - EKS deployment, scaling, networking (CNI), storage (PVs, PVCs), RBAC, Helm charts, Operators
+- **Container Registries** - ECR (Elastic Container Registry), GCR (Google Container Registry), Docker Hub
+- **Container Security** - Image scanning, network policies, pod security policies
 
 ### 🏗️ Infrastructure as Code
-- **Terraform** - Multi-cloud IaC, modules, state management
-- **Ansible** - Configuration management, playbook automation
+- **Terraform** - Multi-cloud IaC, modules, state management, remote backends, workspaces, variables, outputs
+- **Ansible** - Configuration management, playbook automation, inventory management, roles, templates
+- **CloudFormation** - AWS native IaC, stacks, change sets, templates (JSON/YAML)
 
 ### ⚙️ CI/CD & Automation
-- **Jenkins** - Pipeline creation, job orchestration
-- **GitLab CI** - YAML-based pipeline automation
-- **GitHub Actions** - Workflow automation, release management
+- **Jenkins** - Pipeline creation (Declarative & Scripted), job orchestration, plugins, webhooks, agents
+- **GitLab CI** - YAML-based pipeline automation, runners, artifacts, caching, environments
+- **GitHub Actions** - Workflow automation, release management, CI/CD workflows, custom actions, secrets management
+- **Other Tools** - GitOps (ArgoCD, Flux), Build tools (Maven, Gradle, npm), Container image building
 
 ### 📊 Monitoring & Logging
-- **Prometheus** - Metrics collection and alerting
-- **ELK Stack** - Elasticsearch, Logstash, Kibana for log aggregation
-- **Grafana** - Visualization and dashboarding
+- **Prometheus** - Metrics collection, time-series database, alerting (AlertManager), service discovery, exporters
+- **ELK Stack** - Elasticsearch (search & analytics), Logstash (data processing), Kibana (visualization & dashboards)
+- **Grafana** - Visualization and dashboarding, alerting, datasource integration, panel plugins
+- **Additional Tools** - Jaeger (distributed tracing), Loki (log aggregation), Thanos (Prometheus long-term storage)
 
-### 🔧 Additional Tools
-- Linux/Bash scripting
-- Git & Version Control
-- API integrations
-- Database administration (PostgreSQL, MySQL)
+### 🔧 Additional Tools & Technologies
+- **Linux/Unix** - System administration, shell scripting (Bash, Python), package management, permissions
+- **Git & Version Control** - Git workflows, branching strategies, code reviews, merge strategies
+- **Scripting & Automation** - Python, Bash, Go - for automation, infrastructure automation, utility scripts
+- **API & Integration** - REST APIs, Webhooks, SDK integration, API gateways
+- **Database Administration** - PostgreSQL, MySQL, MariaDB backup/restore, replication, optimization
+- **Security & Compliance** - SSL/TLS, encryption, vulnerability scanning, OWASP, compliance standards
+- **Performance Optimization** - Load testing, caching strategies, resource optimization, cost optimization
 
 ---
 
@@ -86,6 +112,7 @@ DevOps Engineer at **Kapil Soft Solutions Pvt Ltd** with expertise in designing 
 
 - Continuous learner in cloud technologies and DevOps best practices
 - Hands-on experience with modern infrastructure tools and platforms
+- Focus on industry best practices and emerging technologies
 
 ---
 
@@ -106,7 +133,8 @@ DevOps Engineer at **Kapil Soft Solutions Pvt Ltd** with expertise in designing 
 - Collaborating on DevOps & infrastructure projects
 - Contributing to open-source DevOps tools
 - Knowledge sharing on cloud technologies and automation
-- Building scalable solutions
+- Building scalable, secure, and efficient solutions
+- Mentoring and knowledge transfer
 
 ---
 
