@@ -26,7 +26,7 @@ DevOps Engineer at **Kapil Soft Solutions Pvt Ltd** with expertise in designing 
 - **Kubernetes & Container Orchestration** - EKS, Docker, container orchestration at scale
 - **Infrastructure as Code** - Terraform & Ansible for repeatable, version-controlled infrastructure
 - **CI/CD Pipeline Development** - Jenkins, GitLab CI, GitHub Actions automation
-- **Observability & Monitoring** - Prometheus, ELK Stack for production monitoring
+- **Observability & Monitoring** - Prometheus, ELK Stack, etc.., for production monitoring
 - **DevOps Best Practices** - Implementing GitOps, security, and reliability patterns
 
 ---
@@ -34,8 +34,8 @@ DevOps Engineer at **Kapil Soft Solutions Pvt Ltd** with expertise in designing 
 ## 🛠️ Technical Stack
 
 ### ☁️ Cloud Platforms
-- **AWS** - EC2, EKS, S3, RDS, Lambda, CloudFormation, VPC
-- **GCP** - GKE, Compute Engine, Cloud Storage, Cloud SQL
+- **AWS** - EC2, EKS, S3, RDS, Lambda, CloudFormation, VPC, Route 53, EBS, etc..,
+- **GCP** - GKE, Compute Engine, Cloud Storage, Cloud SQL, Etc..,
 
 ### 📦 Container & Orchestration
 - **Docker** - Container image creation, Docker Compose, registry management
