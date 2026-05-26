@@ -26,7 +26,7 @@ DevOps Engineer at **Kapil Soft Solutions Pvt Ltd** with expertise in designing 
 - **Kubernetes & Container Orchestration** - EKS, Docker, container orchestration at scale
 - **Infrastructure as Code** - Terraform & Ansible for repeatable, version-controlled infrastructure
 - **CI/CD Pipeline Development** - Jenkins, GitLab CI, GitHub Actions automation
-- **Observability & Monitoring** - Prometheus, ELK Stack, etc.., for production monitoring
+- **Observability & Monitoring** - Prometheus, ELK Stack for production monitoring
 - **DevOps Best Practices** - Implementing GitOps, security, and reliability patterns
 
 ---
@@ -34,8 +34,8 @@ DevOps Engineer at **Kapil Soft Solutions Pvt Ltd** with expertise in designing 
 ## 🛠️ Technical Stack
 
 ### ☁️ Cloud Platforms
-- **AWS** - EC2, EKS, S3, RDS, Lambda, CloudFormation, VPC, Route 53, EBS, etc..,
-- **GCP** - GKE, Compute Engine, Cloud Storage, Cloud SQL, Etc..,
+- **AWS** - EC2, EKS, S3, RDS, Lambda, CloudFormation, VPC
+- **GCP** - GKE, Compute Engine, Cloud Storage, Cloud SQL
 
 ### 📦 Container & Orchestration
 - **Docker** - Container image creation, Docker Compose, registry management
@@ -93,8 +93,8 @@ DevOps Engineer at **Kapil Soft Solutions Pvt Ltd** with expertise in designing 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avinash)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avinash@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/avinash-bollepalli-b1b759244)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avinashdevops7697@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvinashcloudOps)
 
 </div>
